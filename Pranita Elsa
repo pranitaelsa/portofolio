@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pranita Elsa | Portfolio</title>
+<meta name="description" content="Content creator portfolio: pilates, yoga, and gym content.">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&amp;family=Manrope:wght@400;500;600&amp;display=swap">
+<style>
+body{margin:0}
+a{color:inherit;text-decoration:none}
+a:hover{color:#C9A66B}
+@keyframes brand-scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.brand-track{animation:brand-scroll 55s linear infinite}
+.brand-marquee:hover .brand-track{animation-play-state:paused}
+@media (prefers-reduced-motion: reduce){.brand-track{animation:none}.brand-marquee{overflow-x:auto}}
+</style>
+</head>
+<body>
+<div id="atas" style="box-sizing: border-box; background: #0F1012; color: #ECE9E2; font-family: 'Manrope', system-ui, sans-serif; font-size: 16px; line-height: 1.6">
+
+<!-- Header -->
+
+
+<!-- Hero -->
+<div style="border-bottom: 1px solid #2A2B30">
+<div style="max-width: 1200px; margin: 0 auto; padding: 12px clamp(16px, 4vw, 48px); box-sizing: border-box; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 32px">
+<a href="#atas" style="font-family: Manrope, sans-serif; font-size: 18px; font-weight: 600; letter-spacing: 0.01em; min-height: 44px; display: inline-flex; align-items: center; color: #a29f97">Pranita Elsa Safitri Nugraheni</a>
+<nav style="display: flex; flex-wrap: wrap; gap: 0 32px; font-size: 14px; letter-spacing: 0.04em">
+<a href="#niche" style="min-height: 44px; display: inline-flex; align-items: center">Niche</a>
+<a href="#karya" style="min-height: 44px; display: inline-flex; align-items: center">Work</a>
+<a href="#layanan" style="min-height: 44px; display: inline-flex; align-items: center">Services</a>
+<a href="#brands" style="min-height: 44px; display: inline-flex; align-items: center">Brands</a>
+<a href="#kontak" style="min-height: 44px; display: inline-flex; align-items: center; color: #C9A66B">Contact</a>
+</nav>
+</div>
+</div><div style="max-width: 1200px; margin: 0 auto; padding: clamp(56px, 9vw, 120px) clamp(16px, 4vw, 48px) clamp(48px, 7vw, 88px); box-sizing: border-box">
+<div style="font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: #C9A66B; margin-bottom: 32px">Portofolio · Edisi 2026</div>
+<h1 style="margin: 0; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: clamp(48px, 9vw, 128px); line-height: 0.95; letter-spacing: -0.02em"></h1><h1 style="box-sizing: border-box; font-family: &quot;Cormorant Garamond&quot;, &quot;Times New Roman&quot;, serif; font-weight: 500; font-size: clamp(2.8rem, 9vw, 6rem); line-height: 1.02; letter-spacing: -0.01em; margin: 22px 0px 36px; max-width: 14ch; text-wrap: balance; color: rgb(236, 232, 223); background-color: rgb(15, 16, 17)">Stories <em style="box-sizing: border-box; color: rgb(201, 166, 107)">worth watching,</em> edited with precision</h1>
+<div style="display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 32px 48px; margin-top: 56px">
+<p style="margin: 0; max-width: 520px; color: #A29F97; font-size: 18px; text-align: justify; width: 638px"><span style="color: rgb(181, 177, 168); font-family: Manrope, system-ui, -apple-system, &quot;Segoe UI&quot;, sans-serif; font-size: 16px; background-color: rgb(15, 16, 17)">I'm Pranita, a wellness enthusiast sharing my everyday journey through pilates, yoga, and gym content. As a nano-influencer, I bring a highly engaged, close-knit community averaging a 16.6% engagement rate per post and 100K+ views within 30 days. I've collaborated with 15+ brands to date, creating authentic content that focuses on real movement, body progress, and honest turning points not just highlights. A strong fit for health, fitness, and lifestyle brands looking to connect directly with an active, trust-driven audience.</span></p>
+<div style="display: flex; flex-wrap: wrap; gap: 16px">
+<a href="#karya" style="display: inline-flex; align-items: center; gap: 10px; min-height: 48px; padding: 0 28px; background: #C9A66B; color: #0F1012; font-weight: 600; font-size: 15px; box-sizing: border-box"><span>View Work</span>
+<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 5v14M6 13l6 6 6-6"></path></svg></a>
+<a href="#kontak" style="display: inline-flex; align-items: center; min-height: 48px; padding: 0 28px; border: 1px solid #4A4B50; font-weight: 500; font-size: 15px; box-sizing: border-box">Get in touch</a>
+</div>
+</div>
+</div>
+
+<!-- Showreel -->
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 clamp(16px, 4vw, 48px) clamp(64px, 8vw, 112px); box-sizing: border-box">
+<div style="aspect-ratio: 16 / 9; min-height: 240px; background: #17181B; border: 1px solid #2A2B30; box-sizing: border-box; padding: clamp(16px, 3vw, 32px); display: flex; flex-direction: column; justify-content: space-between">
+
+<div style="display: flex; justify-content: space-between; gap: 16px; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: #8C8A84"><span>Showreel 2026</span><span><br></span></div><img src="showreel.jpg" alt="whatsapp-image-2026-11-05-at-14-12-51" width="854" height="1280" style="max-width: 100%; height: 595px; display: block; object-fit: cover; width: 1038px; aspect-ratio: 854 / 1280">
+
+</div>
+</div>
+
+<!-- Stats -->
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 clamp(16px, 4vw, 48px) clamp(64px, 8vw, 112px); box-sizing: border-box">
+<div style="display: flex; flex-wrap: wrap; gap: 32px">
+<div style="flex: 1 1 240px; border-top: 1px solid #2A2B30; padding-top: 20px">
+<div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 64px; line-height: 1; font-weight: 500"><span style="box-sizing: border-box; display: block; font-family: &quot;Cormorant Garamond&quot;, &quot;Times New Roman&quot;, serif; font-size: clamp(2.2rem, 6vw, 3.6rem); line-height: 1; font-variant-numeric: tabular-nums; color: rgb(236, 232, 223); background-color: rgb(15, 16, 17)">16.6%</span></div>
+<div style="margin-top: 8px; color: #A29F97; font-size: 14px"><span style="color: rgb(181, 177, 168); font-family: Manrope, system-ui, -apple-system, &quot;Segoe UI&quot;, sans-serif; font-size: 13.6px; background-color: rgb(15, 16, 17)">Average engagement rate per post</span></div>
+</div>
+<div style="flex: 1 1 240px; border-top: 1px solid #2A2B30; padding-top: 20px">
+<div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 64px; line-height: 1; font-weight: 500"><span style="box-sizing: border-box; display: block; font-family: &quot;Cormorant Garamond&quot;, &quot;Times New Roman&quot;, serif; font-size: clamp(2.2rem, 6vw, 3.6rem); line-height: 1; font-variant-numeric: tabular-nums; color: rgb(236, 232, 223); background-color: rgb(15, 16, 17)">100K++</span></div>
+<div style="margin-top: 8px; color: #A29F97; font-size: 14px"><span style="color: rgb(181, 177, 168); font-family: Manrope, system-ui, -apple-system, &quot;Segoe UI&quot;, sans-serif; font-size: 13.6px; background-color: rgb(15, 16, 17)">Views within 30 days</span></div>
+</div>
+<div style="flex: 1 1 240px; border-top: 1px solid #2A2B30; padding-top: 20px">
+<div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 64px; line-height: 1; font-weight: 500"><span style="box-sizing: border-box; display: block; font-family: &quot;Cormorant Garamond&quot;, &quot;Times New Roman&quot;, serif; font-size: clamp(2.2rem, 6vw, 3.6rem); line-height: 1; font-variant-numeric: tabular-nums; color: rgb(236, 232, 223); background-color: rgb(15, 16, 17)">30++</span></div>
+<div style="margin-top: 8px; color: #A29F97; font-size: 14px"><span style="color: rgb(181, 177, 168); font-family: Manrope, system-ui, -apple-system, &quot;Segoe UI&quot;, sans-serif; font-size: 13.6px; background-color: rgb(15, 16, 17)">Brand collaborations</span></div>
+</div>
+</div>
+</div>
+
+
+
+<!-- Niche -->
+<div id="niche" style="max-width: 1200px; margin: 0 auto; padding: 0 clamp(16px, 4vw, 48px) clamp(64px, 8vw, 112px); box-sizing: border-box">
+<div style="display: flex; align-items: center; gap: 16px; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: #C9A66B"><span>01</span><span>My Niche</span><span style="flex: 1 1 0%; height: 1px; background: rgb(42, 43, 48)"></span></div>
+<h2 style="margin: 24px 0 40px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.08; letter-spacing: -0.01em; text-wrap: balance">Wellness &amp; sport, <em style="color: #C9A66B">told honestly</em></h2>
+<div style="display: flex; flex-wrap: wrap; border-top: 1px solid #2A2B30; border-left: 1px solid #2A2B30">
+<div style="flex: 1 1 420px; box-sizing: border-box; min-height: 200px; padding: 32px 24px 28px; border-right: 1px solid #2A2B30; border-bottom: 1px solid #2A2B30; display: flex; flex-direction: column; justify-content: space-between; gap: 32px; width: 527px; height: 195px">
+<div>
+<h3 style="margin: 0 0 12px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 30px; line-height: 1.1">Pilates</h3>
+<p style="margin: 0; color: #B5B1A8; font-size: 15px">Reformer and mat sessions, from morning routines to technique notes that are easy to follow at home.</p>
+</div>
+<a href="https://www.instagram.com/reel/Dcu5aBVP9Nm/" style="align-self: flex-start; min-height: 44px; display: inline-flex; align-items: center; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #C9A66B">PILATES</a>
+</div>
+<div style="flex: 1 1 420px; box-sizing: border-box; min-height: 200px; padding: 32px 24px 28px; border-right: 1px solid #2A2B30; border-bottom: 1px solid #2A2B30; display: flex; flex-direction: column; justify-content: space-between; gap: 32px; width: 491px; height: 145px">
+<div>
+<h3 style="margin: 0 0 12px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 30px; line-height: 1.1">Yoga</h3>
+<p style="margin: 0; color: #B5B1A8; font-size: 15px">Flow, breath, and recovery. Calming content that stays practical for beginners.</p>
+</div>
+<a href="https://www.instagram.com/reel/Dd8eIWdzmlt/" style="align-self: flex-start; min-height: 44px; display: inline-flex; align-items: center; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #C9A66B">YOGA</a>
+</div>
+<div style="flex: 1 1 420px; box-sizing: border-box; min-height: 200px; padding: 32px 24px 28px; border-right: 1px solid #2A2B30; border-bottom: 1px solid #2A2B30; display: flex; flex-direction: column; justify-content: space-between; gap: 32px; width: 450px; height: 106px">
+<div>
+<h3 style="margin: 0 0 12px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 30px; line-height: 1.1">Gym</h3>
+<p style="margin: 0; color: #B5B1A8; font-size: 15px">Strength training, weekly programs, and the process behind a single session, including the days that don't go to plan.</p>
+</div>
+<a href="https://www.instagram.com/reel/De08r1Eirnr/" style="align-self: flex-start; min-height: 44px; display: inline-flex; align-items: center; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #C9A66B">Add your best work link</a>
+</div>
+<div style="flex: 1 1 420px; box-sizing: border-box; min-height: 200px; padding: 32px 24px 28px; border-right: 1px solid #2A2B30; border-bottom: 1px solid #2A2B30; display: flex; flex-direction: column; justify-content: space-between; gap: 32px; width: 545px; height: 200px">
+<div>
+<h3 style="margin: 0 0 12px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 30px; line-height: 1.1">Progress &amp; <em style="font-style: italic; color: #C9A66B">turning points</em></h3>
+<p style="margin: 0; color: #B5B1A8; font-size: 15px">Notes on body and habit progress, written as they are. This is the format that builds the most trust with my audience.</p>
+</div>
+<a href="https://www.instagram.com/p/DXI8SuCjwsI/?img_index=1" style="align-self: flex-start; min-height: 44px; display: inline-flex; align-items: center; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #C9A66B">TURNING POINTS</a>
+</div>
+</div>
+</div>
+
+<div id="karya" style="max-width: 1200px; margin: 0 auto; padding: 0 clamp(16px, 4vw, 48px) clamp(64px, 8vw, 112px); box-sizing: border-box">
+<div style="display: flex; align-items: center; gap: 16px; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: #C9A66B"><span>02</span><span>Work</span><span style="flex: 1 1 0%; height: 1px; background: rgb(42, 43, 48)"></span></div>
+<h2 style="margin: 24px 0 48px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: clamp(36px, 5vw, 64px); line-height: 1.05; letter-spacing: -0.01em"></h2><h2 style="box-sizing: border-box; font-family: &quot;Cormorant Garamond&quot;, &quot;Times New Roman&quot;, serif; font-weight: 500; font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.08; margin: 12px 0px 0px; text-wrap: balance; color: rgb(236, 232, 223); letter-spacing: normal; background-color: rgb(15, 16, 17)">Four kinds of content my community <em style="box-sizing: border-box; color: rgb(201, 166, 107)">knows</em> me for</h2>
+
+<p style="margin: 0">Everything starts from one principle: real movement, honest body progress, and turning points that are never hidden.</p><div style="display: flex; flex-wrap: wrap; gap: 40px 24px; position: relative; margin-top: 40px">
+
+<div style="flex: 1 1 150px; min-width: 0; position: relative">
+<div style="aspect-ratio: 9 / 16; background: #17181B; border: 1px solid #2A2B30; box-sizing: border-box; display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden">
+<div style="width: 56px; height: 56px; border-radius: 50%; border: 1px solid #C9A66B; display: flex; align-items: center; justify-content: center; color: #C9A66B">
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" aria-hidden="true"><path d="M7 4.5v15l12-7.5z"></path></svg>
+</div>
+</div>
+<div style="margin-top: 20px; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8A84">01 · REELS · 2026</div>
+<h3 style="margin: 8px 0; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 26px; line-height: 1.1">FormLab Private Gym</h3>
+
+<video src="reels-formlab.mp4" aria-label="WhatsApp Video 2026-11-05 at 14.57.17" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" width="576" height="1024" style="position: absolute; left: -18px; top: 1px; width: 280px; height: 457px"></video></div>
+
+<div style="flex: 1 1 150px; min-width: 0">
+<div style="aspect-ratio: 9 / 16; background: #17181B; border: 1px solid #2A2B30; box-sizing: border-box; display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden">
+<div style="width: 56px; height: 56px; border-radius: 50%; border: 1px solid #C9A66B; display: flex; align-items: center; justify-content: center; color: #C9A66B">
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" aria-hidden="true"><path d="M7 4.5v15l12-7.5z"></path></svg>
+</div>
+<video src="reels-yoga.mp4" aria-label="WhatsApp Video 2026-11-05 at 14.11.58" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" width="464" height="832" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%; object-fit: cover"></video></div>
+<div style="margin-top: 20px; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8A84">02 · REELS&nbsp; ·2026</div>
+<h3 style="margin: 8px 0; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 26px; line-height: 1.1">Yoga Routine</h3>
+<p style="margin: 0; color: #A29F97"><br></p>
+</div>
+
+<div style="flex: 1 1 150px; min-width: 0">
+<div style="aspect-ratio: 9 / 16; background: #17181B; border: 1px solid #2A2B30; box-sizing: border-box; display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden">
+<div style="width: 56px; height: 56px; border-radius: 50%; border: 1px solid #C9A66B; display: flex; align-items: center; justify-content: center; color: #C9A66B">
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" aria-hidden="true"><path d="M7 4.5v15l12-7.5z"></path></svg>
+</div>
+<video src="reels-cardea.mp4" aria-label="WhatsApp Video 2026-11-05 at 14.57.30" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" width="576" height="1024" style="position: absolute; left: -18px; top: -89px; width: 276px; height: 637px"></video></div>
+<div style="margin-top: 20px; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8A84">03 · REELS, TIKTOK · 2026</div>
+<h3 style="margin: 8px 0; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 26px; line-height: 1.1">Cardea Physiotherapi &amp; Pilates</h3>
+<p style="margin: 0; color: #A29F97"><br></p>
+</div>
+
+<div style="flex: 1 1 150px; min-width: 0">
+<div style="aspect-ratio: 9 / 16; background: #17181B; border: 1px solid #2A2B30; box-sizing: border-box; display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden">
+<div style="width: 56px; height: 56px; border-radius: 50%; border: 1px solid #C9A66B; display: flex; align-items: center; justify-content: center; color: #C9A66B">
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" aria-hidden="true"><path d="M7 4.5v15l12-7.5z"></path></svg>
+</div>
+</div>
+<div style="margin-top: 20px; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8A84">04 · REELS · 2026</div>
+<h3 style="margin: 8px 0; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 26px; line-height: 1.1">Nusatu by artotel x Candi Golf</h3>
+
+</div>
+
+<video src="reels-nusatu.mp4" aria-label="WhatsApp Video 2026-11-05 at 14.50.03" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" width="464" height="832" style="position: absolute; left: 846px; top: -6px; width: 262px; height: 461px"></video></div>
+</div>
+
+<div id="layanan" style="max-width: 1200px; margin: 0 auto; padding: 0 clamp(16px, 4vw, 48px) clamp(64px, 8vw, 112px); box-sizing: border-box">
+<div style="display: flex; align-items: center; gap: 16px; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: #C9A66B">
+<span>03</span><span>Services</span>
+<span style="flex: 1; height: 1px; background: #2A2B30"></span>
+</div><h2 style="box-sizing: border-box; font-family: &quot;Cormorant Garamond&quot;, &quot;Times New Roman&quot;, serif; font-weight: 500; font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.08; margin: 12px 0px 0px; text-wrap: balance; color: rgb(236, 232, 223); background-color: rgb(15, 16, 17)">Content that feels <em style="box-sizing: border-box; color: rgb(201, 166, 107)">real</em>, not like an ad</h2>
+<p style="margin: 0">Built for health, fitness, and lifestyle brands that want to reach an active community directly.</p><h2 style="margin: 24px 0 48px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: clamp(36px, 5vw, 64px); line-height: 1.05; letter-spacing: -0.01em"></h2><h2 style="box-sizing: border-box; font-family: &quot;Cormorant Garamond&quot;, &quot;Times New Roman&quot;, serif; font-weight: 500; font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.08; margin: 18px 0px 0px; text-wrap: balance; color: rgb(236, 232, 223); letter-spacing: normal; background-color: rgb(15, 16, 17)"></h2><h2 style="box-sizing: border-box; font-weight: 500; font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.08; margin: 12px 0px 0px; text-wrap: balance"></h2>
+<div style="display: flex; flex-wrap: wrap; gap: 40px 32px">
+<div style="flex: 1 1 240px; border-top: 1px solid #2A2B30; padding-top: 20px">
+<div style="font-size: 12px; letter-spacing: 0.14em; color: #C9A66B">01</div>
+<h3 style="margin: 12px 0 8px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 28px; line-height: 1.1"></h3><h3 style="box-sizing: border-box; font-family: &quot;Cormorant Garamond&quot;, &quot;Times New Roman&quot;, serif; font-weight: 500; font-size: 1.7rem; margin: 0px; line-height: 1.15; color: rgb(236, 232, 223); background-color: rgb(15, 16, 17)">Short-form video</h3>
+<p style="margin: 0; color: #A29F97; font-size: 15px"><span style="color: rgb(181, 177, 168); font-family: Manrope, system-ui, -apple-system, &quot;Segoe UI&quot;, sans-serif; font-size: 16px; background-color: rgb(15, 16, 17)">Reels, TikTok, and Shorts where your product or message fits naturally into a real day of training.</span></p>
+</div>
+<div style="flex: 1 1 240px; border-top: 1px solid #2A2B30; padding-top: 20px">
+<div style="font-size: 12px; letter-spacing: 0.14em; color: #C9A66B">02</div>
+<h3 style="margin: 12px 0 8px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 28px; line-height: 1.1"></h3><h3 style="box-sizing: border-box; font-family: &quot;Cormorant Garamond&quot;, &quot;Times New Roman&quot;, serif; font-weight: 500; font-size: 1.7rem; margin: 0px; line-height: 1.15; color: rgb(236, 232, 223); background-color: rgb(15, 16, 17)">Photo &amp; carousel</h3>
+<p style="margin: 0; color: #A29F97; font-size: 15px"><span style="color: rgb(181, 177, 168); font-family: Manrope, system-ui, -apple-system, &quot;Segoe UI&quot;, sans-serif; font-size: 16px; background-color: rgb(15, 16, 17)">Clean visuals for products and campaigns, with captions that sound like me, not like a brochure.</span></p>
+</div>
+<div style="flex: 1 1 240px; border-top: 1px solid #2A2B30; padding-top: 20px; width: 288px">
+<div style="font-size: 12px; letter-spacing: 0.14em; color: #C9A66B">03</div>
+<h3 style="margin: 12px 0 8px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 28px; line-height: 1.1"></h3><h3 style="box-sizing: border-box; font-family: &quot;Cormorant Garamond&quot;, &quot;Times New Roman&quot;, serif; font-weight: 500; font-size: 1.7rem; margin: 0px; line-height: 1.15; color: rgb(236, 232, 223); background-color: rgb(15, 16, 17); width: 273px">Reviews &amp; long-term use</h3>
+<p style="margin: 0; color: #A29F97; font-size: 15px"><span style="color: rgb(181, 177, 168); font-family: Manrope, system-ui, -apple-system, &quot;Segoe UI&quot;, sans-serif; font-size: 16px; background-color: rgb(15, 16, 17)">Weeks of real use with an honest look at results and drawbacks, so my audience can trust the verdict.</span></p>
+</div>
+<div style="flex: 1 1 240px; border-top: 1px solid #2A2B30; padding-top: 20px">
+<div style="font-size: 12px; letter-spacing: 0.14em; color: #C9A66B">04</div>
+<h3 style="margin: 12px 0 8px; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: 28px; line-height: 1.1"></h3><h3 style="box-sizing: border-box; font-family: &quot;Cormorant Garamond&quot;, &quot;Times New Roman&quot;, serif; font-weight: 500; font-size: 1.7rem; margin: 0px; line-height: 1.15; color: rgb(236, 232, 223); background-color: rgb(15, 16, 17)">Collaboration series</h3>
+<p style="margin: 0; color: #A29F97; font-size: 15px"><span style="color: rgb(181, 177, 168); font-family: Manrope, system-ui, -apple-system, &quot;Segoe UI&quot;, sans-serif; font-size: 16px; background-color: rgb(15, 16, 17)">A run of connected posts over a set period to build an ongoing story with your brand.</span></p>
+</div>
+</div>
+</div>
+
+<!-- Brand Collaborations -->
+<div id="brands" style="max-width: 1200px; margin: 0 auto; padding: 0 clamp(16px, 4vw, 48px) clamp(64px, 8vw, 112px); box-sizing: border-box">
+<div style="display: flex; align-items: center; gap: 16px; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: #C9A66B"><span>04</span><span>Brand Collaborations</span><span style="flex: 1 1 0%; height: 1px; background: rgb(42, 43, 48)"></span></div>
+<h2 style="margin: 24px 0 0; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.08; letter-spacing: -0.01em; text-wrap: balance">Brands that <em style="color: #C9A66B">trusted</em> my content</h2>
+<p style="margin: 16px 0 48px; max-width: 640px; color: #A29F97">A selection of the health, fitness, and lifestyle brands I've partnered with so far.</p>
+<div class="brand-marquee" style="overflow: hidden; padding: 28px 0; border-top: 1px solid #2A2B30; border-bottom: 1px solid #2A2B30; -webkit-mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent); mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent)">
+<div class="brand-track" style="display: flex; width: max-content">
+<div style="display: flex; align-items: center; gap: 28px; padding-right: 28px">
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-rintik.jpg" alt="Rintik Skincare" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-cardea.png" alt="Cardea Physiotherapy &amp; Pilates" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-lura.png" alt="Lura Pilates" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-bekelin.png" alt="BeBekelin" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-inbody.png" alt="InBody" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-oleca.png" alt="Oleca Organics" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-vectorlabs.png" alt="Vector Labs" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-fitlife.png" alt="FITlife" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-formlab.png" alt="Form Lab" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-terra.png" alt="Terra" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-soulates.png" alt="Soulates Pilates &amp; Wellness Studio" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-goffee.png" alt="Goffeé Doughnuts &amp; Coffee" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-base.png" alt="Base Skincare" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-nusatu.png" alt="Nusatu by Artotel" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-coldnbrew.png" alt="Cold n Brew" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-indosat.png" alt="Indosat Ooredoo Hutchison" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+</div>
+<div aria-hidden="true" style="display: flex; align-items: center; gap: 28px; padding-right: 28px">
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-rintik.jpg" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-cardea.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-lura.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-bekelin.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-inbody.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-oleca.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-vectorlabs.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-fitlife.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-formlab.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-terra.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-soulates.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-goffee.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-base.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-nusatu.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-coldnbrew.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+<div style="flex: 0 0 auto; width: 160px; height: 160px; background: #fff; border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 1px #2A2B30"><img src="logo-indosat.png" alt="" width="160" height="160" style="display: block; width: 100%; height: 100%; object-fit: cover"></div>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Testimoni -->
+<div style="background: #15161A; border-top: 1px solid #2A2B30; border-bottom: 1px solid #2A2B30">
+<div style="max-width: 1200px; margin: 0 auto; padding: clamp(56px, 8vw, 96px) clamp(16px, 4vw, 48px); box-sizing: border-box">
+<div style="max-width: 880px">
+<div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 80px; line-height: 0.6; color: #C9A66B" aria-hidden="true">“</div>
+<p style="margin: 16px 0 24px; font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-weight: 400; font-size: clamp(26px, 3.6vw, 42px); line-height: 1.25">Happy banget bisa collab sama Elsa, see u next event ya!</p>
+<div style="font-size: 14px; color: #A29F97">Miskha, Project Manager Weekend Wellness Club by Nusatuhotelbyartotel</div><p style="margin: 16px 0 24px; font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-weight: 400; font-size: clamp(26px, 3.6vw, 42px); line-height: 1.25">Kak thanks ya bagusss bgt!&nbsp;</p>
+<div style="font-size: 14px; color: #A29F97">Je Nova, Project Owner Pretty on Mat</div>
+</div>
+<p style="margin: 16px 0 24px; font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-weight: 400; font-size: clamp(26px, 3.6vw, 42px); line-height: 1.25">Aku suka banget kontenmu, event Vol.3 bantu aku lagi ya!</p>
+<div style="font-size: 14px; color: #A29F97">Virgine, Project Owner Terra</div></div>
+</div>
+
+<!-- Kontak -->
+<div id="kontak" style="max-width: 1200px; margin: 0 auto; padding: clamp(64px, 9vw, 120px) clamp(16px, 4vw, 48px) 48px; box-sizing: border-box">
+<div style="display: flex; align-items: center; gap: 16px; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: #C9A66B">
+<span>05</span><span>Contact</span>
+<span style="flex: 1; height: 1px; background: #2A2B30"></span>
+</div>
+<h2 style="margin: 32px 0 0; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: clamp(44px, 8vw, 112px); line-height: 0.98; letter-spacing: -0.02em"></h2><h2 style="box-sizing: border-box; font-family: &quot;Cormorant Garamond&quot;, &quot;Times New Roman&quot;, serif; font-weight: 500; font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.08; margin: 18px 0px 0px; text-wrap: balance; color: rgb(236, 232, 223); letter-spacing: normal; background-color: rgb(15, 16, 17)">Let's make something that feels <em style="box-sizing: border-box; color: rgb(201, 166, 107)">real.</em></h2>
+<div style="display: flex; flex-wrap: wrap; gap: 32px 64px; margin-top: 56px">
+<div style="flex: 1 1 260px">
+<div style="font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8A84">Email</div>
+<a href="#kontak" style="display: inline-block; margin-top: 8px; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 30px; line-height: 1.2; border-bottom: 1px solid #C9A66B">pranita.elsa@gmail.com</a>
+</div>
+<div style="flex: 1 1 260px">
+<div style="font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8A84">SOCIAL MEDIA</div>
+<div style="display: flex; flex-direction: column; margin-top: 4px; font-size: 17px">
+<a href="https://www.instagram.com/pranitaelsaa/" style="min-height: 44px; display: inline-flex; align-items: center">Instagram · @pranitalesaa</a>
+<a href="#kontak" style="min-height: 44px; display: inline-flex; align-items: center">TikTok · @pranitaelsaaa</a>
+<a href="#kontak" style="min-height: 44px; display: inline-flex; align-items: center">Threads · @pranitaelsaa</a>
+</div>
+</div>
+
+</div>
+</div>
+
+<!-- Footer -->
+<div style="border-top: 1px solid #2A2B30">
+<div style="max-width: 1200px; margin: 0 auto; padding: 12px clamp(16px, 4vw, 48px); box-sizing: border-box; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px 24px; font-size: 13px; color: #8C8A84"><span>© 2026 Pranita Elsa SN. Semua hak dilindungi.</span><a href="#atas" style="min-height: 44px; display: inline-flex; align-items: center">Kembali ke atas ↑</a></div>
+</div>
+
+</div>
+<helmet><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400&amp;display=swap"></helmet>
+</body>
+</html>
